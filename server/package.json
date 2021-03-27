@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "fastify start src/server.js --watch --port 2001"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fastify": "^3.14.1",
+    "fastify-cli": "^2.9.1",
+    "fastify-mysql": "^2.1.0",
+    "sprintf-js": "^1.1.2"
+  }
+}

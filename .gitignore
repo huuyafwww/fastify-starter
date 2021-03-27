@@ -1,0 +1,6 @@
+phpmyadmin/sessions/
+docker/mysql/data/
+node_modules/
+log/nginx/*
+temp/
+.env
